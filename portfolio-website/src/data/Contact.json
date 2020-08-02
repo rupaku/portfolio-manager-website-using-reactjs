@@ -1,0 +1,27 @@
+{
+  "heading": {
+    "title": "Contact",
+    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+  },
+  "body": [
+    {
+      "index": "1",
+      "icon": "icofont-google-map",
+      "key": "Location",
+      "value": "A108 Adam Street, New York, NY 535022"
+    },
+    {
+      "index": "2",
+      "icon": "icofont-envelope",
+      "key": "Email",
+      "value": "info@example.com"
+    },
+    {
+      "index": "3",
+      "icon": "icofont-phone",
+      "key": "Call",
+      "value": "+1 5589 55488 55s"
+    }
+  ],
+  "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4201133760166!2d73.92422551544605!3d18.50990797432983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1f2ff6f7bbf%3A0xfdb92164ecdd86eb!2sGrevillea!5e0!3m2!1sen!2sin!4v1593956697192!5m2!1sen!2sin"
+}

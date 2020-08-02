@@ -1,0 +1,54 @@
+{
+  "heading": {
+    "title": "About",
+    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+  },
+  "body": {
+    "image": "assets/img/profile-img.jpg",
+    "title": "UI/UX Designer &amp; Web Developer.",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "details": [
+      {
+        "index": "1",
+        "key": "Birthday",
+        "value": "1 May 1995"
+      },
+      {
+        "index": "2",
+        "key": "Website",
+        "value": "www.example.com"
+      },
+      {
+        "index": "3",
+        "key": "Phone",
+        "value": "+123 456 7890"
+      },
+      {
+        "index": "4",
+        "key": "City",
+        "value": "City : New York, USA"
+      },
+      {
+        "index": "5",
+        "key": "Age",
+        "value": "30"
+      },
+      {
+        "index": "6",
+        "key": "Degree",
+        "value": "Master"
+      },
+      {
+        "index": "7",
+        "key": "email",
+        "value": "email@example.com"
+      },
+      {
+        "index": "8",
+        "key": "Freelance",
+        "value": "Available"
+      }
+    ],
+    "longDescription": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores."
+  }
+}

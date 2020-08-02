@@ -1,0 +1,40 @@
+{
+  "heading": {
+    "title": "Services",
+    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+  },
+  "body": {
+    "data": [
+      {
+        "icon": "icofont-computer",
+        "title": "Lorem Ipsum",
+        "description": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      },
+      {
+        "icon": "icofont-chart-bar-graph",
+        "title": "RK Ipsum",
+        "description": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      },
+      {
+        "icon": "icofont-earth",
+        "title": "Lorem Ipsum",
+        "description": "RK deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      },
+      {
+        "icon": "icofont-image",
+        "title": "Lorem Ipsum",
+        "description": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      },
+      {
+        "icon": "icofont-settings",
+        "title": "RK Ipsum",
+        "description": "RK sd atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      },
+      {
+        "icon": "icofont-tasks-alt",
+        "title": "Lorem Ipsum",
+        "description": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+      }
+    ]
+  }
+}

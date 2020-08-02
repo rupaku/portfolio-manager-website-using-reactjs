@@ -1,0 +1,62 @@
+{
+  "heading": {
+    "title": "Resume",
+    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+  },
+  "summary": {
+    "title": "summary",
+    "details": {
+      "name": "Rupa Kumari",
+      "description": "Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+      "address": [
+        "Portland par 127,Orlando, FL",
+        "(123) 456-7891",
+        "alice.barkley@example.com"
+      ]
+    }
+  },
+  "body": {
+    "title": "Education",
+    "details": [
+      {
+        "institute": "MASTER OF FINE ARTS & GRAPHIC DESIGN",
+        "acedemic": "2014-2016",
+        "address": "Rochester Institute of Technology, Rochester, NY",
+        "description": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+      },
+      {
+        "institute": "BACHELOR OF FINE ARTS & GRAPHIC DESIGN",
+        "acedemic": "2010-2014",
+        "address": "Rochester Institute of Technology, Rochester, NY",
+        "description": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+      }
+    ]
+  },
+  "career": {
+    "title": "Professional Experience",
+    "details": [
+      {
+        "role": "SENIOR GRAPHIC DESIGN SPECIALIST",
+        "acedemic": "2019-Present",
+        "address": "Experion, New York, NY",
+        "description": [
+          "Lead in the design, development, and implementation of the graphic, layout, and production communication materials",
+          "Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.",
+          "Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design",
+          "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
+        ]
+      },
+      {
+        "role": "GRAPHIC DESIGN SPECIALIST",
+        "acedemic": "2017-2018",
+        "address": "Stepping Stone Advertising, New York, NY",
+        "description": [
+          "Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).",
+          "Managed up to 5 projects or tasks at a given time while under pressure",
+          "Recommended and consulted with clients on the most appropriate graphic design",
+          "Created 4+ design presentations and proposals a month for clients and account managers"
+        ]
+      }
+    ]
+  }
+}

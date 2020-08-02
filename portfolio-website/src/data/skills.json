@@ -1,0 +1,38 @@
+{
+  "heading": {
+    "title": "Skills",
+    "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+  },
+  "body": [
+    {
+      "index": "1",
+      "name": "HTML",
+      "value": "100"
+    },
+    {
+      "index": "2",
+      "name": "PHP",
+      "value": "80"
+    },
+    {
+      "index": "3",
+      "name": "CSS",
+      "value": "90"
+    },
+    {
+      "index": "4",
+      "name": "WORDPRESS/CMS",
+      "value": "90"
+    },
+    {
+      "index": "5",
+      "name": "JAVASCRIPT",
+      "value": "75"
+    },
+    {
+      "index": "6",
+      "name": "PHOTOSHOP",
+      "value": "55"
+    }
+  ]
+}
